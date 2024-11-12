@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <header className={styles.header}>
-        <h1>Escape.</h1>
+        <h1>부자가 되기 위해 알아야 할 소식</h1>
         <nav>
           {/* <ul>
             <li>Home</li>
